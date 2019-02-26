@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>2857</M51123C0>
+        <M51123C1>517</M51123C1>
+        <M51123C2>21401</M51123C2>
+        <M51123C3>3300</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

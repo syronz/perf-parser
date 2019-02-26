@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:30:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Mobility_Events">
+        <M8033C0>13</M8033C0>
+        <M8033C1>0</M8033C1>
+        <M8033C2>0</M8033C2>
+        <M8033C3>0</M8033C3>
+        <M8033C4>0</M8033C4>
+        <M8033C5>0</M8033C5>
+        <M8033C6>0</M8033C6>
+        <M8033C7>1</M8033C7>
+        <M8033C8>0</M8033C8>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Mobility_Events">
+        <M8033C0>78</M8033C0>
+        <M8033C1>0</M8033C1>
+        <M8033C2>0</M8033C2>
+        <M8033C3>0</M8033C3>
+        <M8033C4>0</M8033C4>
+        <M8033C5>0</M8033C5>
+        <M8033C6>0</M8033C6>
+        <M8033C7>10</M8033C7>
+        <M8033C8>0</M8033C8>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Mobility_Events">
+        <M8033C0>51</M8033C0>
+        <M8033C1>0</M8033C1>
+        <M8033C2>0</M8033C2>
+        <M8033C3>0</M8033C3>
+        <M8033C4>0</M8033C4>
+        <M8033C5>0</M8033C5>
+        <M8033C6>0</M8033C6>
+        <M8033C7>20</M8033C7>
+        <M8033C8>0</M8033C8>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Mobility_Events">
+        <M8033C0>32</M8033C0>
+        <M8033C1>0</M8033C1>
+        <M8033C2>0</M8033C2>
+        <M8033C3>0</M8033C3>
+        <M8033C4>0</M8033C4>
+        <M8033C5>0</M8033C5>
+        <M8033C6>0</M8033C6>
+        <M8033C7>2</M8033C7>
+        <M8033C8>0</M8033C8>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Mobility_Events">
+        <M8033C0>26</M8033C0>
+        <M8033C1>0</M8033C1>
+        <M8033C2>0</M8033C2>
+        <M8033C3>0</M8033C3>
+        <M8033C4>0</M8033C4>
+        <M8033C5>0</M8033C5>
+        <M8033C6>0</M8033C6>
+        <M8033C7>1</M8033C7>
+        <M8033C8>0</M8033C8>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

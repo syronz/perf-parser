@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:45:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Avail">
+        <M8020C0>0</M8020C0>
+        <M8020C1>0</M8020C1>
+        <M8020C2>0</M8020C2>
+        <M8020C3>900</M8020C3>
+        <M8020C4>0</M8020C4>
+        <M8020C5>0</M8020C5>
+        <M8020C6>900</M8020C6>
+        <M8020C7>0</M8020C7>
+        <M8020C8>0</M8020C8>
+        <M8020C9>0</M8020C9>
+        <M8020C10>0</M8020C10>
+        <M8020C11>0</M8020C11>
+        <M8020C12>0</M8020C12>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Avail">
+        <M8020C0>0</M8020C0>
+        <M8020C1>0</M8020C1>
+        <M8020C2>0</M8020C2>
+        <M8020C3>900</M8020C3>
+        <M8020C4>0</M8020C4>
+        <M8020C5>0</M8020C5>
+        <M8020C6>900</M8020C6>
+        <M8020C7>0</M8020C7>
+        <M8020C8>0</M8020C8>
+        <M8020C9>0</M8020C9>
+        <M8020C10>0</M8020C10>
+        <M8020C11>0</M8020C11>
+        <M8020C12>0</M8020C12>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

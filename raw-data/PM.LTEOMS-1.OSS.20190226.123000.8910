@@ -1,0 +1,825 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>75086</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>15571</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>28953</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>221740</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>5316</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>237259</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>2469</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>0</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>154400</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>24899</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>216137</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>4675</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>9689</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>270122</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>153246</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>307410</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>464</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>13679</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>1213</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>901961</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>296438</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>105524</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>150851</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>105602</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>77589</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>301282</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>1138</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>54495</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>903</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>760236</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>117675</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>96844</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>1920</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>188374</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>0</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>110507</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>1090620</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>75852</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>460427</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>211583</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>1483</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>40325</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>308143</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>842</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>49565</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>153072</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>200961</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>38592</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>24446</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>194518</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>92058</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>139432</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>345246</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>426552</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/LNCEL-10</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>217202</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>148728</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>274989</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>205055</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>51594</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>4113</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>71378</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>303455</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/LNCEL-30</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Cell_Spare_Counters">
+        <M8910C1>516335</M8910C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

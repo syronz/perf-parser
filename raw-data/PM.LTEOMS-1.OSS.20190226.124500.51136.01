@@ -1,0 +1,443 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:30:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>15</M51136C7>
+        <M51136C8>22</M51136C8>
+        <M51136C9>37</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>3</M51136C6>
+        <M51136C7>20</M51136C7>
+        <M51136C8>23</M51136C8>
+        <M51136C9>52</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>4</M51136C7>
+        <M51136C8>21</M51136C8>
+        <M51136C9>29</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-105</baseId>
+        <localMoid>DN:NE-LNBTS-105/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>3</M51136C6>
+        <M51136C7>22</M51136C7>
+        <M51136C8>22</M51136C8>
+        <M51136C9>52</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>6</M51136C7>
+        <M51136C8>21</M51136C8>
+        <M51136C9>25</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>3</M51136C6>
+        <M51136C7>26</M51136C7>
+        <M51136C8>23</M51136C8>
+        <M51136C9>51</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>18</M51136C7>
+        <M51136C8>21</M51136C8>
+        <M51136C9>46</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>16</M51136C7>
+        <M51136C8>22</M51136C8>
+        <M51136C9>39</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>5</M51136C6>
+        <M51136C7>27</M51136C7>
+        <M51136C8>25</M51136C8>
+        <M51136C9>60</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>8</M51136C7>
+        <M51136C8>21</M51136C8>
+        <M51136C9>32</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>17</M51136C7>
+        <M51136C8>21</M51136C8>
+        <M51136C9>35</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>14</M51136C7>
+        <M51136C8>22</M51136C8>
+        <M51136C9>35</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>21</M51136C7>
+        <M51136C8>22</M51136C8>
+        <M51136C9>47</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>21</M51136C7>
+        <M51136C8>18</M51136C8>
+        <M51136C9>49</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>16</M51136C7>
+        <M51136C8>18</M51136C8>
+        <M51136C9>37</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>3</M51136C6>
+        <M51136C7>23</M51136C7>
+        <M51136C8>14</M51136C8>
+        <M51136C9>45</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>23</M51136C7>
+        <M51136C8>21</M51136C8>
+        <M51136C9>51</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>15</M51136C7>
+        <M51136C8>13</M51136C8>
+        <M51136C9>34</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>25</M51136C7>
+        <M51136C8>15</M51136C8>
+        <M51136C9>49</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>27</M51136C7>
+        <M51136C8>15</M51136C8>
+        <M51136C9>45</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>1</M51136C6>
+        <M51136C7>17</M51136C7>
+        <M51136C8>21</M51136C8>
+        <M51136C9>37</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>2</M51136C6>
+        <M51136C7>20</M51136C7>
+        <M51136C8>23</M51136C8>
+        <M51136C9>56</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/FTM-1/TAC-1/LTAC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TAC_Stats">
+        <M51136C0>0</M51136C0>
+        <M51136C1>0</M51136C1>
+        <M51136C2>0</M51136C2>
+        <M51136C3>0</M51136C3>
+        <M51136C4>0</M51136C4>
+        <M51136C5>0</M51136C5>
+        <M51136C6>4</M51136C6>
+        <M51136C7>35</M51136C7>
+        <M51136C8>15</M51136C8>
+        <M51136C9>49</M51136C9>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

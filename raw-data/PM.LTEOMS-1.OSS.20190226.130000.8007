@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:45:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Radio_Bearer">
+        <M8007C0>20</M8007C0>
+        <M8007C1>17</M8007C1>
+        <M8007C2>3</M8007C2>
+        <M8007C4>0</M8007C4>
+        <M8007C7>24</M8007C7>
+        <M8007C8>24</M8007C8>
+        <M8007C9>0</M8007C9>
+        <M8007C10>18</M8007C10>
+        <M8007C11>15</M8007C11>
+        <M8007C12>3</M8007C12>
+        <M8007C14>89</M8007C14>
+        <M8007C15>414</M8007C15>
+        <M8007C16>0</M8007C16>
+        <M8007C17>0</M8007C17>
+        <M8007C18>0</M8007C18>
+        <M8007C19>0</M8007C19>
+        <M8007C20>0</M8007C20>
+        <M8007C21>0</M8007C21>
+        <M8007C22>0</M8007C22>
+        <M8007C23>0</M8007C23>
+        <M8007C24>0</M8007C24>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Radio_Bearer">
+        <M8007C0>24</M8007C0>
+        <M8007C1>24</M8007C1>
+        <M8007C2>0</M8007C2>
+        <M8007C4>0</M8007C4>
+        <M8007C7>21</M8007C7>
+        <M8007C8>16</M8007C8>
+        <M8007C9>5</M8007C9>
+        <M8007C10>10</M8007C10>
+        <M8007C11>10</M8007C11>
+        <M8007C12>0</M8007C12>
+        <M8007C14>256</M8007C14>
+        <M8007C15>1712</M8007C15>
+        <M8007C16>0</M8007C16>
+        <M8007C17>0</M8007C17>
+        <M8007C18>0</M8007C18>
+        <M8007C19>0</M8007C19>
+        <M8007C20>0</M8007C20>
+        <M8007C21>0</M8007C21>
+        <M8007C22>0</M8007C22>
+        <M8007C23>0</M8007C23>
+        <M8007C24>0</M8007C24>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Radio_Bearer">
+        <M8007C0>22</M8007C0>
+        <M8007C1>21</M8007C1>
+        <M8007C2>1</M8007C2>
+        <M8007C4>0</M8007C4>
+        <M8007C7>21</M8007C7>
+        <M8007C8>21</M8007C8>
+        <M8007C9>0</M8007C9>
+        <M8007C10>14</M8007C10>
+        <M8007C11>13</M8007C11>
+        <M8007C12>1</M8007C12>
+        <M8007C14>310</M8007C14>
+        <M8007C15>1066</M8007C15>
+        <M8007C16>0</M8007C16>
+        <M8007C17>0</M8007C17>
+        <M8007C18>0</M8007C18>
+        <M8007C19>0</M8007C19>
+        <M8007C20>0</M8007C20>
+        <M8007C21>0</M8007C21>
+        <M8007C22>0</M8007C22>
+        <M8007C23>0</M8007C23>
+        <M8007C24>0</M8007C24>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:00:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>131914</M51123C0>
+        <M51123C1>3168</M51123C1>
+        <M51123C2>135596</M51123C2>
+        <M51123C3>15795</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>359426</M51123C0>
+        <M51123C1>93279</M51123C1>
+        <M51123C2>385792</M51123C2>
+        <M51123C3>232640</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>3309</M51123C0>
+        <M51123C1>168</M51123C1>
+        <M51123C2>34991</M51123C2>
+        <M51123C3>2297</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-105</baseId>
+        <localMoid>DN:NE-LNBTS-105/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>484820</M51123C0>
+        <M51123C1>129654</M51123C1>
+        <M51123C2>518160</M51123C2>
+        <M51123C3>302337</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>2485212</M51123C0>
+        <M51123C1>139247</M51123C1>
+        <M51123C2>1865738</M51123C2>
+        <M51123C3>1011003</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>7281</M51123C0>
+        <M51123C1>1173</M51123C1>
+        <M51123C2>39393</M51123C2>
+        <M51123C3>6622</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>1952</M51123C0>
+        <M51123C1>230</M51123C1>
+        <M51123C2>20551</M51123C2>
+        <M51123C3>2385</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>102608</M51123C0>
+        <M51123C1>5522</M51123C1>
+        <M51123C2>111217</M51123C2>
+        <M51123C3>29569</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>266473</M51123C0>
+        <M51123C1>14494</M51123C1>
+        <M51123C2>232315</M51123C2>
+        <M51123C3>76526</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>58540</M51123C0>
+        <M51123C1>4294</M51123C1>
+        <M51123C2>84609</M51123C2>
+        <M51123C3>25550</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>46920</M51123C0>
+        <M51123C1>3175</M51123C1>
+        <M51123C2>69123</M51123C2>
+        <M51123C3>18799</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>4115</M51123C0>
+        <M51123C1>563</M51123C1>
+        <M51123C2>36651</M51123C2>
+        <M51123C3>3826</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>279758</M51123C0>
+        <M51123C1>54599</M51123C1>
+        <M51123C2>416083</M51123C2>
+        <M51123C3>301199</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>997427</M51123C0>
+        <M51123C1>142614</M51123C1>
+        <M51123C2>980043</M51123C2>
+        <M51123C3>600556</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>202678</M51123C0>
+        <M51123C1>40867</M51123C1>
+        <M51123C2>238485</M51123C2>
+        <M51123C3>137152</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>34418</M51123C0>
+        <M51123C1>13820</M51123C1>
+        <M51123C2>117469</M51123C2>
+        <M51123C3>79017</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>41172</M51123C0>
+        <M51123C1>11989</M51123C1>
+        <M51123C2>91818</M51123C2>
+        <M51123C3>66298</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>132531</M51123C0>
+        <M51123C1>29408</M51123C1>
+        <M51123C2>129845</M51123C2>
+        <M51123C3>59502</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>16345</M51123C0>
+        <M51123C1>4421</M51123C1>
+        <M51123C2>58166</M51123C2>
+        <M51123C3>21440</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>639510</M51123C0>
+        <M51123C1>135134</M51123C1>
+        <M51123C2>650993</M51123C2>
+        <M51123C3>464309</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:45:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>67</M51151C0>
+        <M51151C1>73</M51151C1>
+        <M51151C2>81</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>58</M51151C0>
+        <M51151C1>92</M51151C1>
+        <M51151C2>130</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>64</M51151C0>
+        <M51151C1>88</M51151C1>
+        <M51151C2>98</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

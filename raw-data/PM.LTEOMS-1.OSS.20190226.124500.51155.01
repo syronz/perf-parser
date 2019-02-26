@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:30:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_X2_Stats">
+        <M51155C0>0</M51155C0>
+        <M51155C1>0</M51155C1>
+        <M51155C2>0</M51155C2>
+        <M51155C3>0</M51155C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_X2_Stats">
+        <M51155C0>0</M51155C0>
+        <M51155C1>0</M51155C1>
+        <M51155C2>0</M51155C2>
+        <M51155C3>0</M51155C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

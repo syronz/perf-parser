@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:00:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>289</M8035C0>
+        <M8035C1>3372</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>1654</M8035C0>
+        <M8035C1>4524</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>174</M8035C0>
+        <M8035C1>3282</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>931</M8035C0>
+        <M8035C1>3812</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>0</M8035C0>
+        <M8035C1>3160</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>4506</M8035C0>
+        <M8035C1>6212</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>126</M8035C0>
+        <M8035C1>3256</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>362</M8035C0>
+        <M8035C1>3407</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>1228</M8035C0>
+        <M8035C1>4051</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>1307</M8035C0>
+        <M8035C1>4050</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>586</M8035C0>
+        <M8035C1>3574</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>3520</M8035C0>
+        <M8035C1>5605</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/LNMME-0</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_S1_SCTP_Statistics">
+        <M8035C0>1219</M8035C0>
+        <M8035C1>3999</M8035C1>
+        <M8035C2>0</M8035C2>
+        <M8035C3>0</M8035C3>
+        <M8035C4>0</M8035C4>
+        <M8035C5>0</M8035C5>
+        <M8035C6>0</M8035C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

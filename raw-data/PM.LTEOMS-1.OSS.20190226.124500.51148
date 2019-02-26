@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:30:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>37590000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>416125000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>0</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-105</baseId>
+        <localMoid>DN:NE-LNBTS-105/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>447524000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>2293700000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>511914000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>808000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>17692000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>656619000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>137000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>433000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>109404000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>460667000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>382627000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>209768000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>1131010000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>306191000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>43818000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>307523000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>76916000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>112841000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>864463000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/FTM-1/IPNO-1/IPVOL-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Data_Traffic_Volume_Stats">
+        <M51148C0>608602000</M51148C0>
+        <M51148C1>0</M51148C1>
+        <M51148C2>0</M51148C2>
+        <M51148C3>0</M51148C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:00:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_X2AP">
+        <M8022C0>0</M8022C0>
+        <M8022C1>0</M8022C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_X2AP">
+        <M8022C0>0</M8022C0>
+        <M8022C1>0</M8022C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_X2AP">
+        <M8022C0>0</M8022C0>
+        <M8022C1>0</M8022C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_X2AP">
+        <M8022C0>0</M8022C0>
+        <M8022C1>0</M8022C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

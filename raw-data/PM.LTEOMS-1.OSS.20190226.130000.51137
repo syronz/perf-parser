@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:45:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>10932</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>74</M51137C2>
+        <M51137C3>149</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:30:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Inter_Home_eNB_Handover">
+        <M8042C0>0</M8042C0>
+        <M8042C1>0</M8042C1>
+        <M8042C2>0</M8042C2>
+        <M8042C3>0</M8042C3>
+        <M8042C4>0</M8042C4>
+        <M8042C5>0</M8042C5>
+        <M8042C6>0</M8042C6>
+        <M8042C7>0</M8042C7>
+        <M8042C8>0</M8042C8>
+        <M8042C9>0</M8042C9>
+        <M8042C10>0</M8042C10>
+        <M8042C11>0</M8042C11>
+        <M8042C12>0</M8042C12>
+        <M8042C13>0</M8042C13>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

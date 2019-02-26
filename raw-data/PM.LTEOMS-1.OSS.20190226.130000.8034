@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:45:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/LNCEL-2</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/EARFCN-2850</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_EUTRA_carrier_frequency">
+        <M8034C0>0</M8034C0>
+        <M8034C1>0</M8034C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

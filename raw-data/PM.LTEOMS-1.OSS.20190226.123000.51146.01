@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPNO-1/IEIF-1/IVIF-1/IPPM-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_VLAN_IPv4_Stats">
+        <M51146C0>21312</M51146C0>
+        <M51146C1>2354</M51146C1>
+        <M51146C2>3297</M51146C2>
+        <M51146C3>445</M51146C3>
+        <M51146C4>0</M51146C4>
+        <M51146C5>0</M51146C5>
+        <M51146C6>0</M51146C6>
+        <M51146C7>1937</M51146C7>
+        <M51146C8>62</M51146C8>
+        <M51146C9>0</M51146C9>
+        <M51146C10>0</M51146C10>
+        <M51146C11>1</M51146C11>
+        <M51146C12>0</M51146C12>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

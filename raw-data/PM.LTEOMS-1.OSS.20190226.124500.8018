@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:30:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>4</M8018C0>
+        <M8018C1>7</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>3310</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>20</M8018C0>
+        <M8018C1>25</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>18379</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>0</M8018C0>
+        <M8018C1>0</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>0</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>23</M8018C0>
+        <M8018C1>25</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>20590</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>34</M8018C0>
+        <M8018C1>44</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>30214</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>0</M8018C0>
+        <M8018C1>2</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>256</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>2</M8018C0>
+        <M8018C1>5</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>1927</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>4</M8018C0>
+        <M8018C1>8</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>3870</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>63</M8018C0>
+        <M8018C1>74</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>56845</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>18</M8018C0>
+        <M8018C1>24</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>16531</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>6</M8018C0>
+        <M8018C1>10</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>5423</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>0</M8018C0>
+        <M8018C1>2</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>412</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>1</M8018C0>
+        <M8018C1>3</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>854</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>28</M8018C0>
+        <M8018C1>34</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>25048</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>9</M8018C0>
+        <M8018C1>14</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>8272</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>49</M8018C0>
+        <M8018C1>57</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>43894</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>20</M8018C0>
+        <M8018C1>26</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>17840</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>4</M8018C0>
+        <M8018C1>9</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>3965</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>27</M8018C0>
+        <M8018C1>37</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>24002</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>7</M8018C0>
+        <M8018C1>11</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>5913</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>7</M8018C0>
+        <M8018C1>11</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>6192</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>4</M8018C0>
+        <M8018C1>6</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>3919</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>39</M8018C0>
+        <M8018C1>47</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>35473</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_eNB_Load">
+        <M8018C0>60</M8018C0>
+        <M8018C1>72</M8018C1>
+        <M8018C4>0</M8018C4>
+        <M8018C5>0</M8018C5>
+        <M8018C6>0</M8018C6>
+        <M8018C7>0</M8018C7>
+        <M8018C8>54060</M8018C8>
+        <M8018C9>900</M8018C9>
+        <M8018C10>0</M8018C10>
+        <M8018C11>0</M8018C11>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

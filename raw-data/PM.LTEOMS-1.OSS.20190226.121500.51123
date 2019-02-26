@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:00:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>757490</M51123C0>
+        <M51123C1>121163</M51123C1>
+        <M51123C2>691377</M51123C2>
+        <M51123C3>447094</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>348715</M51123C0>
+        <M51123C1>61289</M51123C1>
+        <M51123C2>407823</M51123C2>
+        <M51123C3>272760</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/FTM-1/ETHLK-0-2</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Ethernet_Link">
+        <M51123C0>774977</M51123C0>
+        <M51123C1>110153</M51123C1>
+        <M51123C2>882712</M51123C2>
+        <M51123C3>514270</M51123C3>
+        <M51123C4>0</M51123C4>
+        <M51123C8>0</M51123C8>
+        <M51123C16>0</M51123C16>
+        <M51123C17>0</M51123C17>
+        <M51123C18>0</M51123C18>
+        <M51123C19>0</M51123C19>
+        <M51123C20>0</M51123C20>
+        <M51123C21>0</M51123C21>
+        <M51123C22>0</M51123C22>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>59070</M51129C0>
+        <M51129C1>31378</M51129C1>
+        <M51129C2>17967</M51129C2>
+        <M51129C3>3263</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>584692</M51129C0>
+        <M51129C1>701151</M51129C1>
+        <M51129C2>313012</M51129C2>
+        <M51129C3>56594</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>34599</M51129C0>
+        <M51129C1>3263</M51129C1>
+        <M51129C2>2182</M51129C2>
+        <M51129C3>158</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-105</baseId>
+        <localMoid>DN:NE-LNBTS-105/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>363193</M51129C0>
+        <M51129C1>314067</M51129C1>
+        <M51129C2>196746</M51129C2>
+        <M51129C3>53935</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>2054432</M51129C0>
+        <M51129C1>2811374</M51129C1>
+        <M51129C2>999415</M51129C2>
+        <M51129C3>132464</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>561835</M51129C0>
+        <M51129C1>571817</M51129C1>
+        <M51129C2>380316</M51129C2>
+        <M51129C3>76494</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>21411</M51129C0>
+        <M51129C1>2851</M51129C1>
+        <M51129C2>3299</M51129C2>
+        <M51129C3>517</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>39784</M51129C0>
+        <M51129C1>10275</M51129C1>
+        <M51129C2>5431</M51129C2>
+        <M51129C3>660</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>52885</M51129C0>
+        <M51129C1>15658</M51129C1>
+        <M51129C2>20510</M51129C2>
+        <M51129C3>4512</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>812193</M51129C0>
+        <M51129C1>740315</M51129C1>
+        <M51129C2>469568</M51129C2>
+        <M51129C3>117685</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>315378</M51129C0>
+        <M51129C1>232250</M51129C1>
+        <M51129C2>228126</M51129C2>
+        <M51129C3>106137</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>59913</M51129C0>
+        <M51129C1>27063</M51129C1>
+        <M51129C2>18955</M51129C2>
+        <M51129C3>5607</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>35100</M51129C0>
+        <M51129C1>3442</M51129C1>
+        <M51129C2>2748</M51129C2>
+        <M51129C3>290</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>35326</M51129C0>
+        <M51129C1>3616</M51129C1>
+        <M51129C2>2904</M51129C2>
+        <M51129C3>289</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>532828</M51129C0>
+        <M51129C1>417448</M51129C1>
+        <M51129C2>362775</M51129C2>
+        <M51129C3>63740</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>282129</M51129C0>
+        <M51129C1>288366</M51129C1>
+        <M51129C2>140187</M51129C2>
+        <M51129C3>26447</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>1159108</M51129C0>
+        <M51129C1>1315465</M51129C1>
+        <M51129C2>610887</M51129C2>
+        <M51129C3>118784</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>333107</M51129C0>
+        <M51129C1>337661</M51129C1>
+        <M51129C2>160781</M51129C2>
+        <M51129C3>51872</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>81401</M51129C0>
+        <M51129C1>25678</M51129C1>
+        <M51129C2>58209</M51129C2>
+        <M51129C3>12683</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>464776</M51129C0>
+        <M51129C1>464515</M51129C1>
+        <M51129C2>249369</M51129C2>
+        <M51129C3>61457</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>74766</M51129C0>
+        <M51129C1>26650</M51129C1>
+        <M51129C2>43112</M51129C2>
+        <M51129C3>8159</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>66557</M51129C0>
+        <M51129C1>36450</M51129C1>
+        <M51129C2>39422</M51129C2>
+        <M51129C3>10971</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>57771</M51129C0>
+        <M51129C1>23973</M51129C1>
+        <M51129C2>21493</M51129C2>
+        <M51129C3>8208</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>923630</M51129C0>
+        <M51129C1>828269</M51129C1>
+        <M51129C2>547951</M51129C2>
+        <M51129C3>127909</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/FTM-1/IPNO-1/IEIF-1/IVIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="VLAN_stats">
+        <M51129C0>744353</M51129C0>
+        <M51129C1>751357</M51129C1>
+        <M51129C2>537334</M51129C2>
+        <M51129C3>220816</M51129C3>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

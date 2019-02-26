@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:00:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1973</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1940</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>2000</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>2140</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1940</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1875</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>2039</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1903</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1882</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1986</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1965</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-EQM-1/APEQM-1/CABINET-1/SMOD-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_DAC_Word_Statistics">
+        <M8076C0>1952</M8076C0>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

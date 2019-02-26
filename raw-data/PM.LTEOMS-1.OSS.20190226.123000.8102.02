@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="Cat_M_Mobility">
+        <M8102C0>0</M8102C0>
+        <M8102C1>0</M8102C1>
+        <M8102C2>0</M8102C2>
+        <M8102C3>0</M8102C3>
+        <M8102C4>0</M8102C4>
+        <M8102C5>0</M8102C5>
+        <M8102C6>0</M8102C6>
+        <M8102C7>0</M8102C7>
+        <M8102C8>0</M8102C8>
+        <M8102C9>0</M8102C9>
+        <M8102C10>0</M8102C10>
+        <M8102C11>0</M8102C11>
+        <M8102C12>0</M8102C12>
+        <M8102C13>0</M8102C13>
+        <M8102C14>0</M8102C14>
+        <M8102C15>0</M8102C15>
+        <M8102C16>0</M8102C16>
+        <M8102C17>0</M8102C17>
+        <M8102C18>0</M8102C18>
+        <M8102C19>0</M8102C19>
+        <M8102C20>0</M8102C20>
+        <M8102C21>0</M8102C21>
+        <M8102C22>0</M8102C22>
+        <M8102C23>0</M8102C23>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPNO-1/IPRM-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IP_Filtering">
+        <M51126C0>0</M51126C0>
+        <M51126C1>0</M51126C1>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:00:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-105</baseId>
+        <localMoid>DN:NE-LNBTS-105/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>0</M51130C0>
+        <M51130C1>0</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>16</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>16</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>16</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/FTM-1/IPNO-1/IEIF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_ETHIF_stats">
+        <M51130C0>249</M51130C0>
+        <M51130C1>17</M51130C1>
+        <M51130C2>0</M51130C2>
+        <M51130C3>0</M51130C3>
+        <M51130C4>0</M51130C4>
+        <M51130C5>0</M51130C5>
+        <M51130C6>0</M51130C6>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

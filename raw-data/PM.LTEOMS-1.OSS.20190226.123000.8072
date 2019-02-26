@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/LNCEL-20</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Inter_eNB_via_X2_Handover">
+        <M8072C0>0</M8072C0>
+        <M8072C1>0</M8072C1>
+        <M8072C2>0</M8072C2>
+        <M8072C3>0</M8072C3>
+        <M8072C4>0</M8072C4>
+        <M8072C5>0</M8072C5>
+        <M8072C6>0</M8072C6>
+        <M8072C7>0</M8072C7>
+        <M8072C8>0</M8072C8>
+        <M8072C9>0</M8072C9>
+        <M8072C10>0</M8072C10>
+        <M8072C11>0</M8072C11>
+        <M8072C12>0</M8072C12>
+        <M8072C13>0</M8072C13>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Inter_eNB_via_X2_Handover">
+        <M8072C0>0</M8072C0>
+        <M8072C1>0</M8072C1>
+        <M8072C2>0</M8072C2>
+        <M8072C3>0</M8072C3>
+        <M8072C4>0</M8072C4>
+        <M8072C5>0</M8072C5>
+        <M8072C6>0</M8072C6>
+        <M8072C7>0</M8072C7>
+        <M8072C8>0</M8072C8>
+        <M8072C9>0</M8072C9>
+        <M8072C10>0</M8072C10>
+        <M8072C11>0</M8072C11>
+        <M8072C12>0</M8072C12>
+        <M8072C13>0</M8072C13>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/LNCEL-1</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Inter_eNB_via_X2_Handover">
+        <M8072C0>0</M8072C0>
+        <M8072C1>0</M8072C1>
+        <M8072C2>0</M8072C2>
+        <M8072C3>0</M8072C3>
+        <M8072C4>0</M8072C4>
+        <M8072C5>0</M8072C5>
+        <M8072C6>0</M8072C6>
+        <M8072C7>0</M8072C7>
+        <M8072C8>0</M8072C8>
+        <M8072C9>0</M8072C9>
+        <M8072C10>0</M8072C10>
+        <M8072C11>0</M8072C11>
+        <M8072C12>0</M8072C12>
+        <M8072C13>0</M8072C13>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/LNCEL-0</localMoid>
+      </MO>
+      <MO>
+        <DN>PLMN-PLMN/MCC-417/MNC-50</DN>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_Inter_eNB_via_X2_Handover">
+        <M8072C0>0</M8072C0>
+        <M8072C1>0</M8072C1>
+        <M8072C2>0</M8072C2>
+        <M8072C3>0</M8072C3>
+        <M8072C4>0</M8072C4>
+        <M8072C5>0</M8072C5>
+        <M8072C6>0</M8072C6>
+        <M8072C7>0</M8072C7>
+        <M8072C8>0</M8072C8>
+        <M8072C9>0</M8072C9>
+        <M8072C10>0</M8072C10>
+        <M8072C11>0</M8072C11>
+        <M8072C12>0</M8072C12>
+        <M8072C13>0</M8072C13>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

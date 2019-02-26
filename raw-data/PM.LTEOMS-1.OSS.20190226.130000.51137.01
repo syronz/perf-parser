@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:45:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14513</M51137C0>
+        <M51137C1>13</M51137C1>
+        <M51137C2>13</M51137C2>
+        <M51137C3>13</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14516</M51137C0>
+        <M51137C1>31</M51137C1>
+        <M51137C2>33</M51137C2>
+        <M51137C3>35</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14518</M51137C0>
+        <M51137C1>118</M51137C1>
+        <M51137C2>141</M51137C2>
+        <M51137C3>164</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-105</baseId>
+        <localMoid>DN:NE-LNBTS-105/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>13607</M51137C0>
+        <M51137C1>-5</M51137C1>
+        <M51137C2>-5</M51137C2>
+        <M51137C3>-5</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-200</baseId>
+        <localMoid>DN:NE-LNBTS-200/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14517</M51137C0>
+        <M51137C1>32</M51137C1>
+        <M51137C2>50</M51137C2>
+        <M51137C3>68</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14516</M51137C0>
+        <M51137C1>-5</M51137C1>
+        <M51137C2>-5</M51137C2>
+        <M51137C3>-5</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14313</M51137C0>
+        <M51137C1>-27</M51137C1>
+        <M51137C2>-27</M51137C2>
+        <M51137C3>-27</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>6767</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>131</M51137C2>
+        <M51137C3>262</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14517</M51137C0>
+        <M51137C1>-45</M51137C1>
+        <M51137C2>-45</M51137C2>
+        <M51137C3>-45</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-101</baseId>
+        <localMoid>DN:NE-LNBTS-101/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14516</M51137C0>
+        <M51137C1>-143</M51137C1>
+        <M51137C2>-130</M51137C2>
+        <M51137C3>-118</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14516</M51137C0>
+        <M51137C1>-19</M51137C1>
+        <M51137C2>-17</M51137C2>
+        <M51137C3>-16</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>11182</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>23</M51137C2>
+        <M51137C3>47</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-109</baseId>
+        <localMoid>DN:NE-LNBTS-109/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14514</M51137C0>
+        <M51137C1>47</M51137C1>
+        <M51137C2>47</M51137C2>
+        <M51137C3>47</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14518</M51137C0>
+        <M51137C1>2</M51137C1>
+        <M51137C2>2</M51137C2>
+        <M51137C3>2</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14490</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>13</M51137C2>
+        <M51137C3>27</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>6218</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>38</M51137C2>
+        <M51137C3>76</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>13292</M51137C0>
+        <M51137C1>-32</M51137C1>
+        <M51137C2>-32</M51137C2>
+        <M51137C3>-32</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>7141</M51137C0>
+        <M51137C1>93</M51137C1>
+        <M51137C2>93</M51137C2>
+        <M51137C3>93</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>7936</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>42</M51137C2>
+        <M51137C3>85</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>8478</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>19</M51137C2>
+        <M51137C3>39</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14518</M51137C0>
+        <M51137C1>-116</M51137C1>
+        <M51137C2>-116</M51137C2>
+        <M51137C3>-116</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14244</M51137C0>
+        <M51137C1>-9</M51137C1>
+        <M51137C2>26</M51137C2>
+        <M51137C3>61</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>14516</M51137C0>
+        <M51137C1>-25</M51137C1>
+        <M51137C2>1</M51137C2>
+        <M51137C3>27</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/FTM-1/TOPB-1/TOPF-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_TOP_FreqSync_Stats">
+        <M51137C0>6521</M51137C0>
+        <M51137C1>0</M51137C1>
+        <M51137C2>0</M51137C2>
+        <M51137C3>0</M51137C3>
+        <M51137C4>900</M51137C4>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

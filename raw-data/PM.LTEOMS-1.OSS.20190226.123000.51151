@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:15:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-20</baseId>
+        <localMoid>DN:NE-LNBTS-20/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>96</M51151C0>
+        <M51151C1>102</M51151C1>
+        <M51151C2>109</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-22</baseId>
+        <localMoid>DN:NE-LNBTS-22/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>61</M51151C0>
+        <M51151C1>150</M51151C1>
+        <M51151C2>427</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-11</baseId>
+        <localMoid>DN:NE-LNBTS-11/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>101</M51151C0>
+        <M51151C1>107</M51151C1>
+        <M51151C2>114</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-105</baseId>
+        <localMoid>DN:NE-LNBTS-105/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>65</M51151C0>
+        <M51151C1>132</M51151C1>
+        <M51151C2>200</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-120</baseId>
+        <localMoid>DN:NE-LNBTS-120/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>94</M51151C0>
+        <M51151C1>101</M51151C1>
+        <M51151C2>108</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>62</M51151C0>
+        <M51151C1>101</M51151C1>
+        <M51151C2>196</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-4</baseId>
+        <localMoid>DN:NE-LNBTS-4/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>100</M51151C0>
+        <M51151C1>106</M51151C1>
+        <M51151C2>113</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-1</baseId>
+        <localMoid>DN:NE-LNBTS-1/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>96</M51151C0>
+        <M51151C1>102</M51151C1>
+        <M51151C2>109</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-7</baseId>
+        <localMoid>DN:NE-LNBTS-7/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>97</M51151C0>
+        <M51151C1>103</M51151C1>
+        <M51151C2>110</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-15</baseId>
+        <localMoid>DN:NE-LNBTS-15/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>101</M51151C0>
+        <M51151C1>108</M51151C1>
+        <M51151C2>115</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-3</baseId>
+        <localMoid>DN:NE-LNBTS-3/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>96</M51151C0>
+        <M51151C1>102</M51151C1>
+        <M51151C2>109</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-103</baseId>
+        <localMoid>DN:NE-LNBTS-103/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>193</M51151C0>
+        <M51151C1>200</M51151C1>
+        <M51151C2>207</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-6</baseId>
+        <localMoid>DN:NE-LNBTS-6/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>97</M51151C0>
+        <M51151C1>103</M51151C1>
+        <M51151C2>110</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-111</baseId>
+        <localMoid>DN:NE-LNBTS-111/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>97</M51151C0>
+        <M51151C1>103</M51151C1>
+        <M51151C2>110</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-104</baseId>
+        <localMoid>DN:NE-LNBTS-104/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>68</M51151C0>
+        <M51151C1>158</M51151C1>
+        <M51151C2>203</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-8</baseId>
+        <localMoid>DN:NE-LNBTS-2/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>193</M51151C0>
+        <M51151C1>200</M51151C1>
+        <M51151C2>206</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-106</baseId>
+        <localMoid>DN:NE-LNBTS-106/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>96</M51151C0>
+        <M51151C1>102</M51151C1>
+        <M51151C2>109</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>96</M51151C0>
+        <M51151C1>102</M51151C1>
+        <M51151C2>109</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-115</baseId>
+        <localMoid>DN:NE-LNBTS-115/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>63</M51151C0>
+        <M51151C1>78</M51151C1>
+        <M51151C2>101</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-12</baseId>
+        <localMoid>DN:NE-LNBTS-12/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>66</M51151C0>
+        <M51151C1>87</M51151C1>
+        <M51151C2>107</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-108</baseId>
+        <localMoid>DN:NE-LNBTS-108/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>95</M51151C0>
+        <M51151C1>102</M51151C1>
+        <M51151C2>109</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-102</baseId>
+        <localMoid>DN:NE-LNBTS-102/FTM-1/IPNO-1/INTP-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="NTP_stats">
+        <M51151C0>64</M51151C0>
+        <M51151C1>131</M51151C1>
+        <M51151C2>200</M51151C2>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

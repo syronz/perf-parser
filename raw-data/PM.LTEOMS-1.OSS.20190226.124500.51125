@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<OMeS xmlns="pm/cnf_lte_nsn.1.0.xsd">
+  <PMSetup startTime="2019-02-26T12:30:00.000+00:00:00" interval="15">
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-9</baseId>
+        <localMoid>DN:NE-LNBTS-9/FTM-1/IPSECC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IPSec">
+        <M51125C6>0</M51125C6>
+        <M51125C7>0</M51125C7>
+        <M51125C8>0</M51125C8>
+        <M51125C9>0</M51125C9>
+        <M51125C10>0</M51125C10>
+        <M51125C11>0</M51125C11>
+        <M51125C12>0</M51125C12>
+        <M51125C13>0</M51125C13>
+        <M51125C14>0</M51125C14>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+    <PMMOResult>
+      <MO>
+        <baseId>NE-MRBTS-5</baseId>
+        <localMoid>DN:NE-LNBTS-5/FTM-1/IPSECC-1</localMoid>
+      </MO>
+      <NE-LNBTS_1.0 measurementType="LTE_IPSec">
+        <M51125C6>0</M51125C6>
+        <M51125C7>0</M51125C7>
+        <M51125C8>0</M51125C8>
+        <M51125C9>0</M51125C9>
+        <M51125C10>0</M51125C10>
+        <M51125C11>0</M51125C11>
+        <M51125C12>0</M51125C12>
+        <M51125C13>0</M51125C13>
+        <M51125C14>0</M51125C14>
+      </NE-LNBTS_1.0>
+    </PMMOResult>
+
+  </PMSetup>
+</OMeS>

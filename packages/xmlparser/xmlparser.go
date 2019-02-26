@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
-
+	"strings"
 )
 
 type OMeS struct {
@@ -32,64 +32,45 @@ type MO struct {
 	BaseId string		`xml:"baseId"`
 }
 
-/*
-type User struct {
-	Users   []User   `xml:"user"`
-	XMLName xml.Name `xml:"user"`
-	Type    string   `xml:"type,attr"`
-	Name    string   `xml:"name"`
-	Social  Social   `xml:"social"`
-}
 
-type Social struct {
-	XMLName  xml.Name `xml:"social"`
-	Facebook string   `xml:"facebook"`
-	Twitter  string   `xml:"twitter"`
-	Youtube  string   `xml:"youtube"`
-}
-*/
-
-
-func Parse() {
-		// Open our xmlFile
-	xmlFile, err := os.Open("./test/sample02.xml")
-	// if we os.Open returns an error then handle it
+func Parse(filename string) {
+	xmlFile, err := os.Open(filename)
 	if err != nil {
 		fmt.Println(err)
 	}
 
 	fmt.Println("Successfully Opened sample.xml")
-	// defer the closing of our xmlFile so that we can parse it later on
 	defer xmlFile.Close()
 
-	// read our opened xmlFile as a byte array.
 	byteValue, _ := ioutil.ReadAll(xmlFile)
 
-	// we initialize our Users array
 	var omes OMeS
-	// we unmarshal our byteArray which contains our
-	// xmlFiles content into 'users' which we defined above
 	xml.Unmarshal(byteValue, &omes)
 
-	// we iterate through every user within our users array and
-	// print out the user Type, their name, and their facebook url
-	// as just an example
 
 	fmt.Println("#############",omes)
 
 	for i, v := range omes.PMSetup.PMMOResult {
 		fmt.Println(i, v.MO.BaseId)
+		parseInner(strings.Split(v.NELNBTS.InnerXML, "\n"), 8)
 		fmt.Println(i, v.NELNBTS)
 	}
 
-	/*
-	for i := 0; i < len(datar.Users.Users); i++ {
-		fmt.Println("User Type: " + omes.PMSetup)
-		//fmt.Println("User Name: " + users.Users[i].Name)
-		//fmt.Println("Facebook Url: " + users.Users[i].Social.Facebook)
-		//fmt.Println("Twitter Url: " + users.Users[i].Social.Twitter)
+}
+
+func parseInner(arrStr []string, idMeasure int64){
+	//arrNEL := strings.Join(strings.Split(v.NELNBTS.InnerXML, "\n"), "+")
+	nelbs := make(map[string]int, len(arrStr))
+	for i, v := range arrStr {
+		insideTag := strings.Split(v, "<")
+		if len(insideTag) > 1 {
+			
+			fmt.Println("@!@@@@@@@@@@@@@@@@@@", insideTag[1])
+		}
+
+		nelbs[insideTag[0]] = i
 	}
-	*/
+	fmt.Println(arrStr, nelbs)
 }
 
 

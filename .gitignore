@@ -1,5 +1,12 @@
 /test
-/raw-data/*
-/zip-data/*
 environments.xml
 out*
+Session.vim
+/.undodir
+# exclude everything
+raw-data/*
+zip-data/*
+
+# exception to the rule
+!raw-data/.gitkeep
+!zip-data/.gitkeep

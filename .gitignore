@@ -1,0 +1,5 @@
+/test
+/raw-data/*
+/zip-data/*
+./environments.xml
+out*

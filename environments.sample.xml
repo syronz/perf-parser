@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<data>
+	<mysql>
+		<host>127.0.0.1</host>
+		<user>root</user>
+		<password>123456</password>
+	</mysql>
+
+</data>

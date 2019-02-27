@@ -1,6 +1,7 @@
 package main
 
 import (
+	"time"
 	"fmt"
 
 	"github.com/syronz/perf-parser/packages/gunzip"
@@ -10,6 +11,7 @@ import (
 
 
 func main() {
+	start := time.Now()
 	const zipFolder = "./zip-data/"
 	const rawFolder = "./raw-data/"
 	const envFile	= "./environments.xml"
@@ -23,11 +25,7 @@ func main() {
 	}
 
 	db.Connect()
-	//defer db.Disconnect()
-
-	//lastId := db.InsertMeasurement("2019-02-23 12:00:00", "NE-MRBTS-20", "LTE_S1AP", "9000")
-	//fmt.Println(lastId)
-
+	defer db.Disconnect()
 
 	zipFiles := gunzip.FilesInFolder(zipFolder)
 	for _, file := range zipFiles {
@@ -42,8 +40,7 @@ func main() {
 
 
 	fmt.Println("Information added to the database")
-	//xmlparser.Parse("./test/sample02.xml")
-	//xmlparser.Parse(db, "./raw-data/PM.LTEOMS-1.OSS.20190226.124500.8038")
+	fmt.Println("Duration: ", time.Since(start))
 
 
 }

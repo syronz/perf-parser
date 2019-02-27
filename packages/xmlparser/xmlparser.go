@@ -53,6 +53,9 @@ type Mvalue struct {
 
 
 func Parse(db mysql.Params, filename string) {
+
+	fmt.Println(filename)
+
 	xmlFile, err := os.Open(filename)
 	if err != nil {
 		panic(err.Error())
@@ -87,6 +90,7 @@ func Parse(db mysql.Params, filename string) {
 			for _, v := range mvalues {
 				if v.Tag != "" {
 					db.InsertMValues(lastId, v.Tag, v.Amount)
+					//fmt.Println(lastId, v.Tag, v.Amount)
 				}
 			}
 		} else {

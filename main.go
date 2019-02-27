@@ -16,6 +16,7 @@ func main() {
 	const rawFolder = "./raw-data/"
 	const envFile	= "./environments.xml"
 
+
 	envs := xmlparser.GetEnvironment(envFile)
 
 	db := mysql.Params{

@@ -7,8 +7,11 @@ import (
 	"os"
 	"strings"
 	"time"
+	"strconv"
 
+	"github.com/syronz/perf-parser/packages/mongo"
 	"github.com/syronz/perf-parser/packages/mysql"
+	"github.com/syronz/perf-parser/models"
 )
 
 type OMeS struct {
@@ -36,15 +39,6 @@ type MO struct {
 	BaseId string		`xml:"baseId"`
 }
 
-type FinalData struct {
-	FileName string
-	MO string
-	StartTime string
-	Nelbs []struct {
-		Tag string
-		Value string
-	}
-}
 
 type Mvalue struct {
 	Tag string
@@ -54,7 +48,9 @@ type Mvalue struct {
 
 func Parse(db mysql.Params, filename string) {
 
-	fmt.Println(filename)
+	data := model.Data{}
+	data.Date = "32323"
+
 
 	xmlFile, err := os.Open(filename)
 	if err != nil {
@@ -83,19 +79,29 @@ func Parse(db mysql.Params, filename string) {
 	strDate := fmt.Sprintf(t.Format(createdFormat))
 
 	for _, v := range omes.PMSetup.PMMOResult {
-		lastId := db.InsertMeasurement(strDate, v.MO.BaseId, v.NELNBTS.MeasurementType, arrFilename)
+		data.Date = strDate
+		data.BaseId = v.MO.BaseId
+		data.MeasurementType = v.NELNBTS.MeasurementType
+		data.MeasurementTypeID, _ = strconv.Atoi(arrFilename)
+		//lastId := db.InsertMeasurement(strDate, v.MO.BaseId, v.NELNBTS.MeasurementType, arrFilename)
 		mvalues := parseInner(strings.Split(v.NELNBTS.InnerXML, "\n"), 8)
-		fmt.Println(">>>>>>>>>>", lastId, strDate, v.MO.BaseId, arrFilename, filename)
-		if lastId > 0 {
+		data.Mvalues = make(map[string]int, len(mvalues))
+		//fmt.Println(">>>>>>>>>>", lastId, strDate, v.MO.BaseId, arrFilename, filename)
+		//if lastId > 0 {
 			for _, v := range mvalues {
 				if v.Tag != "" {
-					db.InsertMValues(lastId, v.Tag, v.Amount)
+					tmp, errConv := strconv.Atoi(v.Amount)
+					if errConv == nil {
+						data.Mvalues[v.Tag] = tmp
+					}
+					//db.InsertMValues(lastId, v.Tag, v.Amount)
 					//fmt.Println(lastId, v.Tag, v.Amount)
 				}
 			}
-		} else {
-			fmt.Println("Duplicate: ", strDate, v.MO.BaseId, arrFilename, filename)
-		}
+		//} else {
+			//fmt.Println("Duplicate: ", strDate, v.MO.BaseId, arrFilename, filename)
+		//}
+		mongo.Insert(data)
 	}
 
 	os.Remove(filename)

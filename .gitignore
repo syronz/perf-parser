@@ -10,3 +10,5 @@ zip-data/*
 # exception to the rule
 !raw-data/.gitkeep
 !zip-data/.gitkeep
+vendor
+/vendor

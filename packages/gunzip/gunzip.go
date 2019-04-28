@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func Extract(filename string, rawFolder string){
+func Extract(filename string, rawFolder string) {
 
 	if filename == "" {
 		fmt.Println("Usage : gunzip sourcefile.gz")
@@ -21,6 +21,7 @@ func Extract(filename string, rawFolder string){
 		fmt.Println(err)
 		os.Exit(1)
 	}
+	defer gzipfile.Close()
 
 	reader, err := gzip.NewReader(gzipfile)
 	if err != nil {
@@ -31,7 +32,7 @@ func Extract(filename string, rawFolder string){
 
 	fileArr := strings.Split(filename, "/")
 
-	newfilename := rawFolder + strings.TrimSuffix(fileArr[len(fileArr) -1], ".gz")
+	newfilename := rawFolder + strings.TrimSuffix(fileArr[len(fileArr)-1], ".gz")
 
 	writer, err := os.Create(newfilename)
 
@@ -40,7 +41,7 @@ func Extract(filename string, rawFolder string){
 		os.Exit(1)
 	}
 
-	os.Remove(filename)
+	//os.Remove(filename)
 
 	defer writer.Close()
 
@@ -50,4 +51,3 @@ func Extract(filename string, rawFolder string){
 	}
 
 }
-
